@@ -1,3 +1,3 @@
-<?php  
+<?php 
 
-echo "This is my GIT first Page.";
+echo "This is updated file";
